@@ -3,3 +3,6 @@ default:
 
 test:
 	sleep 20
+
+deploy:
+	sleep 1
